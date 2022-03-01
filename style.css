@@ -1,0 +1,293 @@
+
+body{
+    background: rgb(235, 174, 96) url('https://kabramkrafts.com/wp-content/uploads/2020/05/Spanish-Tile-PNG.png');
+    background-repeat: repeat-x;
+    background-size: 800px;
+}
+
+#pg1{
+    width: 100vw;
+    height: 100vh;
+}
+
+/*text*/
+#nameStory{
+    position: absolute;
+    left: 450px;
+    background-color: rgb(235, 174, 96);
+    color: rgb(253, 253, 253);
+}
+
+#nameStory h2{
+
+    position: absolute;
+    left: 90px;
+    background-color: rgb(235, 174, 96);
+    color: rgb(253, 253, 253);
+
+}
+
+#nameStory h3{
+
+    position: absolute;
+    left: 110px;
+    margin-top: 60px;
+    background-color: rgb(235, 174, 96);
+    color: rgb(253, 253, 253);
+
+}
+
+#nombres h1{
+
+    position: absolute;
+    margin-top: 560px;
+    left: 170px;
+    z-index: 10;
+    font-size: 40px;
+}
+
+#nombres h2{
+
+    position: absolute;
+    margin-top: 560px;
+    left: 510px;
+    z-index: 10;
+    font-size: 40px;
+}
+
+#nombres h3{
+
+    position: absolute;
+    margin-top: 560px;
+    left: 840px;
+    z-index: 10;
+    font-size: 40px;
+
+}
+
+
+#nombre25{
+
+    position: absolute;
+    margin-top: 560px;
+    left: 1118px;
+    z-index: 10;
+    font-size: 33px;
+    background-color: rgb(218, 214, 214);
+  color: black;
+  border: 0px solid #4CAF50; /* Green */
+
+}
+
+
+#name{
+
+    position: absolute;
+    margin-top: 480px;
+    left: 1280px;
+    z-index: 10;
+    font-size: 35px;
+    
+}
+
+#storyInfo1{
+
+    position: absolute;
+    margin-top: 630px;
+    left: 110px;
+    z-index: 10;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(235, 174, 96);
+    max-width: 200px;
+
+}
+
+#storyInfo2{
+
+    position: absolute;
+    margin-top: 630px;
+    left: 480px;
+    z-index: 10;
+    font-size: 20px;
+    color: white;
+    max-width: 200px;
+    background-color: rgb(235, 174, 96);
+
+}
+
+#storyInfo3{
+
+    position: absolute;
+    margin-top: 630px;
+    left: 820px;
+    z-index: 10;
+    font-size: 20px;
+    color: white;
+    max-width: 200px;
+    background-color: rgb(235, 174, 96);
+
+}
+
+
+/*images*/
+
+#blankPolaroid{
+
+    position: absolute;
+    margin-top: 200px;
+    left: -60px;
+
+}
+
+#film1{
+
+    position: absolute;
+    margin-top: 240px;
+    left: 80px;
+
+}
+
+#blankPolaroid2{
+
+    position: absolute;
+    margin-top: 200px;
+    left: 300px;
+
+}
+
+#film2{
+
+    position: absolute;
+    margin-top: 240px;
+    left: 440px;
+
+}
+
+
+#blankPolaroid3{
+
+    position: absolute;
+    margin-top: 200px;
+    left: 650px;
+
+}
+
+#film3{
+
+    position: absolute;
+    margin-top: 240px;
+    left: 790px;
+
+}
+
+#blankPolaroid4{
+
+    position: absolute;
+    margin-top: 200px;
+    left: 990px;
+
+}
+
+#film4{
+
+    position: absolute;
+    margin-top: 240px;
+    left: 1130px;
+
+}
+
+#sticker{
+
+    position: absolute;
+    margin-top: 440px;
+    left: 1230px;
+}
+
+#blank1{
+
+    position: absolute;
+    width: 265px;
+    height: 300px;
+    background-color: black;
+    margin-top: 240px;
+    left: 80px;
+    z-index: 9;
+}
+
+#blank2{
+
+    position: absolute;
+    width: 265px;
+    height: 300px;
+    background-color: black;
+    margin-top: 240px;
+    left: 440px;
+    z-index: 9;
+
+}
+
+#blank3{
+
+    position: absolute;
+    width: 265px;
+    height: 300px;
+    background-color: black;
+    margin-top: 240px;
+    left: 790px;
+    z-index: 9;
+
+}
+
+#blank4{
+
+    position: absolute;
+    width: 265px;
+    height: 300px;
+    background-color: black;
+    margin-top: 240px;
+    left: 1130px;
+    z-index: 9;
+
+}
+
+
+
+
+
+
+#pg2{
+    width: 100vw;
+    height: 100vh;
+}
+
+#btn{
+
+    position: absolute;
+    width: 150px;
+    height: 80px;
+    border-radius: 100px;
+    margin-top: 200px;
+    left: 650px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    color: white;
+    background-color: rgb(25, 12, 97);
+}
+
+#nickname{
+    
+    position: absolute;
+    margin-top: 150px;
+    left: 50px;
+    font-size: 50px;
+}
+
+#treats{
+
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    margin-top: 200px;
+    left: 50px;
+}
